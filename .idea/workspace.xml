@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6c88d98-a169-4634-a23e-f6749f5541a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/About/pfp.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/LandingPage/Akima.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/LandingPage/Boston.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/LandingPage/Debate.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/LandingPage/Execs.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/LandingPage/Track.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/Projects/Cube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/Projects/Graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/Projects/Monte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/Projects/Nasdaq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/assets/Projects/Options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/LandingPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/Projects.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/Resume.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/SectionHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/ui/3d-card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/ui/CardComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/ui/FloatingDock.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/ui/HeroParallax.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/ui/TracingBeam.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/ui/projectsData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BG-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nasdaq-details-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nasdaq-details-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nasdaq-details-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nasdaq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prosthetic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_general.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_hero.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sections.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-grid.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-icons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-reboot.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-utilities.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.esm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.esm.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.rtl.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxicons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/glightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/glightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/glightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/glightbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inner-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-email-form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plyr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plyr.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/purecounter_vanilla.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/purecounter_vanilla.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiper-bundle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiper-bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swiper-bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typed.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typed.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typed.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typed.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typed.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/typed.umd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validate.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Website-Update" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BhavyaJohar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BhavyaJohar/personal-website.git&quot;,
+    &quot;accountId&quot;: &quot;4a5d27ec-28b7-4c34-899b-eaf716975617&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n5QPma0R6FkpNFXFaGdWJTwRjO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;React&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bhavya/IdeaProjects/personal-website/react-portfolio/src/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/bhavya/Applications/IntelliJ IDEA Ultimate.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-portfolio/src/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/src/assets/About" />
+      <recent name="$PROJECT_DIR$/portfolio/src/assets/Projects" />
+      <recent name="$PROJECT_DIR$/portfolio/src/assets/LandingPage" />
+      <recent name="$PROJECT_DIR$/portfolio/src/components" />
+      <recent name="$PROJECT_DIR$/portfolio/src/assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6c88d98-a169-4634-a23e-f6749f5541a7" name="Changes" comment="" />
+      <created>1728260434797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728260434797</updated>
+      <workItem from="1728260435843" duration="3208000" />
+      <workItem from="1728510661867" duration="653000" />
+      <workItem from="1728535972139" duration="386000" />
+      <workItem from="1728706500022" duration="3148000" />
+      <workItem from="1728764938661" duration="846000" />
+      <workItem from="1728859380925" duration="317000" />
+      <workItem from="1728859701827" duration="5077000" />
+      <workItem from="1728936194930" duration="28805000" />
+      <workItem from="1729195108290" duration="12101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
